@@ -2,7 +2,7 @@
     background-color: rgb rgb(255, 0, 0);
 }
 .titulo{
-    font-size: 50px;color: rgb(238, 255, 0);background: rgb(0, 0, 0);text-align: center;
+    font-size: 50px;color: rgba(238, 255, 0, 0.856);background: rgb(0, 0, 0);text-align: center;
 }
 .texto-imc{
     font-size: 50px;
